@@ -6,6 +6,7 @@ Here is a curated list for the interesting stuff I found on Internet. Enjoy.
 
 - [SweepJS](http://rileyjshaw.com/sweep/): Smooth color transitions
 - [PACE](http://github.hubspot.com/pace/docs/welcome/): Automatic page load progress bar
+- [Marka](http://fian.my.id/marka/) Smooth icon transition
 
 ##New ideas##
 
