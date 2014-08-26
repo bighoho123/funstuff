@@ -21,3 +21,7 @@ Here is a curated list for the interesting stuff I found on Internet. Enjoy.
 ##Game##
 
 - [Game Dev List](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
+
+##CSS##
+
+- [CSS Style Guide](http://cssguidelin.es/)
