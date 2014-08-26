@@ -17,3 +17,7 @@ Here is a curated list for the interesting stuff I found on Internet. Enjoy.
 - [MapBuildr](https://www.mapbuildr.com/): Simple custom Google Map generation tool.
 - [Casual](http://casual.pm/): Simple project management tool
 - [Climbi](http://climbi.com/): Beautiful code sharing
+
+##Game##
+
+- [Game Dev List](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
