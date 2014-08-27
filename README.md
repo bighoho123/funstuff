@@ -18,6 +18,7 @@ Here is a curated list for the interesting stuff I found on Internet. Enjoy.
 - [Casual](http://casual.pm/): Simple project management tool
 - [Climbi](http://climbi.com/): Beautiful code sharing
 - [MonitorBook](https://monitorbook.com): Tracking everything on the Internet
+- [WordPressThemeChecker](http://whatwpthemeisthat.com/): Check what Wordpress theme is used and some plugins
 
 ##Game##
 
