@@ -27,3 +27,9 @@ Here is a curated list for the interesting stuff I found on Internet. Enjoy.
 ##CSS##
 
 - [CSS Style Guide](http://cssguidelin.es/)
+- [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
+- [NEC from NetEase](http://nec.netease.com/)
+
+##Data Visualization##
+
+- [Algorithms Visualization](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html)
