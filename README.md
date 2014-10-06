@@ -41,3 +41,7 @@ Here is a curated list for the interesting stuff I found on Internet. Enjoy.
 ##Data Visualization##
 
 - [Algorithms Visualization](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html)
+
+##Tutorial##
+
+- [Code Player](http://thecodeplayer.com/)
