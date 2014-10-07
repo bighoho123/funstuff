@@ -37,6 +37,7 @@ Here is a curated list for the interesting stuff I found on Internet. Enjoy.
 ##Front End Resource##
 
 - [UI](http://www.uiparade.com/)
+- [Free stuff](http://www.freepik.com/)
 
 ##Data Visualization##
 
