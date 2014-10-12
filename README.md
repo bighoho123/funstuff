@@ -46,3 +46,4 @@ Here is a curated list for the interesting stuff I found on Internet. Enjoy.
 ##Tutorial##
 
 - [Code Player](http://thecodeplayer.com/)
+- [SQL](http://sqlschool.modeanalytics.com/)
