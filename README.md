@@ -23,6 +23,7 @@ Here is a curated list for the interesting stuff I found on Internet. Enjoy.
 - [Programming Cheat Sheet](http://overapi.com/)
 - [Color](http://colourco.de/) Color picker
 - [TAIGA](https://taiga.io/) Agile project management tool
+- [Wovn](https://wovn.io) Localization with only one line of code
 
 ##Game##
 
