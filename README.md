@@ -8,6 +8,7 @@ Here is a curated list for the interesting stuff I found on Internet. Enjoy.
 - [PACE](http://github.hubspot.com/pace/docs/welcome/): Automatic page load progress bar
 - [Marka](http://fian.my.id/marka/) Smooth icon transition
 - [SweetAlert](http://tristanedwards.me/sweetalert) Alternative for javascript ugly alert()
+- [Magic Scroll](https://github.com/janpaepke/ScrollMagic) jQuery plugin for scrolling event
 
 ##New ideas##
 
@@ -25,6 +26,7 @@ Here is a curated list for the interesting stuff I found on Internet. Enjoy.
 - [TAIGA](https://taiga.io/) Agile project management tool
 - [Wovn](https://wovn.io) Localization with only one line of code
 - [Trunk](https://trunked.me/) A simple, unlimited, free dropin file trunk
+- [BeeFree](https://beefree.io/index.aspx) To create responsive campaign emails
 
 ##Game##
 
