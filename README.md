@@ -42,6 +42,7 @@ Here is a curated list for the interesting stuff I found on Internet. Enjoy.
 
 - [UI](http://www.uiparade.com/)
 - [Free stuff](http://www.freepik.com/)
+- [Bootstrap Snippet](http://bootsnipp.com/) Handy bootstrap snippet
 
 ##Data Visualization##
 
