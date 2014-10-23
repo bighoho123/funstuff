@@ -23,6 +23,7 @@ Here is a curated list for the interesting stuff I found on Internet. Enjoy.
 - [WordPressThemeChecker](http://whatwpthemeisthat.com/): Check what Wordpress theme is used and some plugins
 - [Programming Cheat Sheet](http://overapi.com/)
 - [Color](http://colourco.de/) Color picker
+- [Coolors](http://coolors.co/) Another color theme generator
 - [TAIGA](https://taiga.io/) Agile project management tool
 - [Wovn](https://wovn.io) Localization with only one line of code
 - [Trunk](https://trunked.me/) A simple, unlimited, free dropin file trunk
