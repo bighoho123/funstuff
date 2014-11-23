@@ -32,6 +32,7 @@ Here is a curated list for the interesting stuff I found on Internet. Enjoy.
 - [LearnXinYMinutes](http://learnxinyminutes.com/) Walk through of various languages
 - [Donger](http://dongerlist.com/) Text-based emoji
 - [Prcrsr](https://prcrsr.com) A collaborative prototyping tool
+- [CSS Animation Cheet Sheet](http://www.justinaguilar.com/animations/#) CSS3 animation cheet sheet
 
 ##Game##
 
