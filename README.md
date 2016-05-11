@@ -10,6 +10,7 @@ Here is a curated list for the interesting stuff I found on Internet. Enjoy.
 - [SweetAlert](http://tristanedwards.me/sweetalert) Alternative for javascript ugly alert()
 - [Magic Scroll](https://github.com/janpaepke/ScrollMagic) jQuery plugin for scrolling event
 - [Javascript Prettify](http://www.jspretty.com/) Make js pretty
+- [DynamicJS](http://dynamicsjs.com/) JS based animation
 
 ##New ideas##
 
