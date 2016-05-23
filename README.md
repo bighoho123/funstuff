@@ -58,6 +58,7 @@ Here is a curated list for the interesting stuff I found on Internet. Enjoy.
 ##Data Visualization##
 
 - [Algorithms Visualization](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html)
+- [Algorithms Visualizer](http://jasonpark.me/AlgorithmVisualizer/)
 - [HighChart](http://www.highcharts.com/)
 
 ##Tutorial##
