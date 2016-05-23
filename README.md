@@ -37,6 +37,7 @@ Here is a curated list for the interesting stuff I found on Internet. Enjoy.
 - [Astral](http://astralapp.com/) Github star management tool
 - [Video Downloader](https://rg3.github.io/youtube-dl/) Download video from youtube etc..
 - [MapJam](https://mapjam.com) Beautiful customizable map sharing tool
+- [Colicous](http://colicious.ga/) Color generator
 ##Game##
 
 - [Game Dev List](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
